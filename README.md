@@ -75,7 +75,7 @@ Running spark job (Before running job make sure EMR Role have access to s3)
 
 
 # AWS s3 CLI Cheat Sheet
-![s3 cli cheat sheet](https://github.com/san089/Data_Engineering_Projects/blob/master/AWS_Services/aws-s3-cheat-sheet.png)
+![s3 cli cheat sheet](https://github.com/vishalbansal28/Data_lake_AWS/blob/master/aws-s3-cheat-sheet.png)
 
     
 	  **time**  - timestamps of records in  **songplays**  broken down into specific units
